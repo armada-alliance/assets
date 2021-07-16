@@ -1,6 +1,6 @@
 <p align="center"><img width="200px" src="https://armada-alliance.com/ship-420.png"></img></p>
 
-## Assets
+# Armada Alliance Assets
 
 This repository is responsible for storing all the static assets used by the Armada Alliance.
 
