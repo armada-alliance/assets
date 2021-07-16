@@ -2,7 +2,7 @@
 
 This repository is responsible for storing all the static assets used by the Armada Alliance.
 
-The assets get served on `https://armada-alliance.com/assets` via GitHub Pages and will be used on both https://armada-alliance.com and https://staging.armada-alliance.com.
+The assets get served on https://armada-alliance.com/assets via GitHub Pages and will be used on both https://armada-alliance.com and https://staging.armada-alliance.com.
 
 In order to upload a file to this repository, please follow the instructions below:
 
