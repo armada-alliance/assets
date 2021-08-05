@@ -1,4 +1,4 @@
-<p align="center"><img width="200px" src="https://armada-alliance.com/ship.webp"></img></p>
+<p align="center"><img width="200px" src="https://armada-alliance.com/ship.gif"></img></p>
 
 # Armada Alliance Assets
 
